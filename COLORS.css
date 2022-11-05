@@ -1,0 +1,258 @@
+body#COLORS {
+  --clr-1: hsl(var(--COLORS), 100%, 100%);
+  --clr-2: hsl(var(--COLORS), 100%, 90%);
+  --clr-3: hsl(var(--COLORS), 100%, 80%);
+  --clr-4: hsl(var(--COLORS), 100%, 70%);
+  --clr-5: hsl(var(--COLORS), 100%, 60%);
+  --clr-6: hsl(var(--COLORS), 100%, 50%);
+  --clr-7: hsl(var(--COLORS), 100%, 40%);
+  --clr-8: hsl(var(--COLORS), 100%, 30%);
+  --clr-9: hsl(var(--COLORS), 100%, 20%);
+  --clr-10: hsl(var(--COLORS), 100%, 10%);
+  --clr-11: hsl(var(--COLORS), 100%, 05%);
+  --clr-12: hsl(var(--COLORS), 100%, 00%);
+  /* ------------------------------------------------------------- */
+  --clr-1-d: hsl(var(--COLORS), 70%, 100%);
+  --clr-2-d: hsl(var(--COLORS), 70%, 90%);
+  --clr-3-d: hsl(var(--COLORS), 70%, 80%);
+  --clr-4-d: hsl(var(--COLORS), 70%, 70%);
+  --clr-5-d: hsl(var(--COLORS), 70%, 60%);
+  --clr-6-d: hsl(var(--COLORS), 70%, 50%);
+  --clr-7-d: hsl(var(--COLORS), 70%, 40%);
+  --clr-8-d: hsl(var(--COLORS), 70%, 30%);
+  --clr-9-d: hsl(var(--COLORS), 70%, 20%);
+  --clr-10-d: hsl(var(--COLORS), 70%, 10%);
+  --clr-11-d: hsl(var(--COLORS), 70%, 05%);
+  --clr-12-d: hsl(var(--COLORS), 70%, 00%);
+}
+
+/* -------BACKGROUND-COLOR------------------------------------------------------ */
+
+.clr-1 {
+  color: var(--clr-1);
+}
+.clr-2 {
+  color: var(--clr-2);
+}
+.clr-3 {
+  color: var(--clr-3);
+}
+.clr-4 {
+  color: var(--clr-4);
+}
+.clr-5 {
+  color: var(--clr-5);
+}
+.clr-6 {
+  color: var(--clr-6);
+}
+.clr-7 {
+  color: var(--clr-7);
+}
+.clr-8 {
+  color: var(--clr-8);
+}
+.clr-9 {
+  color: var(--clr-9);
+}
+.clr-10 {
+  color: var(--clr-10);
+}
+.clr-11 {
+  color: var(--clr-11);
+}
+.clr-12 {
+  color: var(--clr-12);
+}
+
+/* ------------------------------------------------------------- */
+
+.bg-1 {
+  background-color: var(--clr-1);
+}
+.bg-2 {
+  background-color: var(--clr-2);
+}
+.bg-3 {
+  background-color: var(--clr-3);
+}
+.bg-4 {
+  background-color: var(--clr-4);
+}
+.bg-5 {
+  background-color: var(--clr-5);
+}
+.bg-6 {
+  background-color: var(--clr-6);
+}
+.bg-7 {
+  background-color: var(--clr-7);
+}
+.bg-8 {
+  background-color: var(--clr-8);
+}
+.bg-9 {
+  background-color: var(--clr-9);
+}
+.bg-10 {
+  background-color: var(--clr-10);
+}
+.bg-11 {
+  background-color: var(--clr-11);
+}
+.bg-12 {
+  background-color: var(--clr-12);
+}
+
+/* ------------------------------------------------------------- */
+.clr-1-d {
+  color: var(--clr-1-d);
+}
+.clr-2-d {
+  color: var(--clr-2-d);
+}
+.clr-3-d {
+  color: var(--clr-3-d);
+}
+.clr-4-d {
+  color: var(--clr-4-d);
+}
+.clr-5-d {
+  color: var(--clr-5-d);
+}
+.clr-6-d {
+  color: var(--clr-6-d);
+}
+.clr-7-d {
+  color: var(--clr-7-d);
+}
+.clr-8-d {
+  color: var(--clr-8-d);
+}
+.clr-9-d {
+  color: var(--clr-9-d);
+}
+.clr-10-d {
+  color: var(--clr-10-d);
+}
+.clr-11-d {
+  color: var(--clr-11-d);
+}
+.clr-12-d {
+  color: var(--clr-12-d);
+}
+
+/* ------------------------------------------------------------- */
+
+.bg-1-d {
+  background-color: var(--clr-1-d);
+}
+.bg-2-d {
+  background-color: var(--clr-2-d);
+}
+.bg-3-d {
+  background-color: var(--clr-3-d);
+}
+.bg-4-d {
+  background-color: var(--clr-4-d);
+}
+.bg-5-d {
+  background-color: var(--clr-5-d);
+}
+.bg-6-d {
+  background-color: var(--clr-6-d);
+}
+.bg-7-d {
+  background-color: var(--clr-7-d);
+}
+.bg-8-d {
+  background-color: var(--clr-8-d);
+}
+.bg-9-d {
+  background-color: var(--clr-9-d);
+}
+.bg-10-d {
+  background-color: var(--clr-10-d);
+}
+.bg-11-d {
+  background-color: var(--clr-11-d);
+}
+.bg-12-d {
+  background-color: var(--clr-12-d);
+}
+
+/* -------BORDER-COLOR------------------------------------------------------ */
+.br-clr-1 {
+  border-color: var(--clr-1);
+}
+.br-clr-2 {
+  border-color: var(--clr-2);
+}
+.br-clr-3 {
+  border-color: var(--clr-3);
+}
+.br-clr-4 {
+  border-color: var(--clr-4);
+}
+.br-clr-5 {
+  border-color: var(--clr-5);
+}
+.br-clr-6 {
+  border-color: var(--clr-6);
+}
+.br-clr-7 {
+  border-color: var(--clr-7);
+}
+.br-clr-8 {
+  border-color: var(--clr-8);
+}
+.br-clr-9 {
+  border-color: var(--clr-9);
+}
+.br-clr-10 {
+  border-color: var(--clr-10);
+}
+.br-clr-11 {
+  border-color: var(--clr-11);
+}
+.br-clr-12 {
+  border-color: var(--clr-12);
+}
+
+/* ----------------------------------------------------------- */
+.br-clr-1-d {
+  border-color: var(--clr-1-d);
+}
+.br-clr-2-d {
+  border-color: var(--clr-2-d);
+}
+.br-clr-3-d {
+  border-color: var(--clr-3-d);
+}
+.br-clr-4-d {
+  border-color: var(--clr-4-d);
+}
+.br-clr-5-d {
+  border-color: var(--clr-5-d);
+}
+.br-clr-6-d {
+  border-color: var(--clr-6-d);
+}
+.br-clr-7-d {
+  border-color: var(--clr-7-d);
+}
+.br-clr-8-d {
+  border-color: var(--clr-8-d);
+}
+.br-clr-9-d {
+  border-color: var(--clr-9-d);
+}
+.br-clr-10-d {
+  border-color: var(--clr-10-d);
+}
+.br-clr-11-d {
+  border-color: var(--clr-11-d);
+}
+.br-clr-12-d {
+  border-color: var(--clr-12-d);
+}

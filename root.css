@@ -1,0 +1,15 @@
+:root,
+:root.light {
+  --bg-color: #fff;
+  --text-color: #123;
+}
+
+:root.dark {
+  --bg-color: #121212;
+  --text-color: #45adfe;
+}
+
+:root.cyberpunk {
+    --bg-color: purple;
+    --text-color: cyan;
+}
